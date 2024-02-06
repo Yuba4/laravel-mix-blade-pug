@@ -24,6 +24,6 @@
   "homepage": "https://github.com/Smilefish2/laravel-mix-blade-pug#readme",
   "dependencies": {
     "laravel-mix": "^6.0.49",
-    "mkdirp": "^0.5.1"
+    "mkdirp": "^3.0.1"
   }
 }
